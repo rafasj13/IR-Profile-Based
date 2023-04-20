@@ -1,2 +1,3 @@
 # IR-Profile-Based
-Repository to download the Information  Retrieval Datasets
+Information Retrieval Profile Based Project
+
